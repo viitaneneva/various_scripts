@@ -1,0 +1,20 @@
+Library1;Sebesta;Programming Languages;14
+Library2;Budd;Data Structures in C++;2
+Library2;Wirth;Compiler Construction;on-the-shelf
+Library3;Savitch;Problem Solving with C++;8
+Library2;Sebesta;Programming Languages;3
+Library3;Skansholm;C++ from the Beginning;on-the-shelf
+Library1;Wirth;Compiler Construction;10
+Library3;Budd;An Introduction to Object-Oriented Programming;on-the-shelf
+Library1;Budd;A Little Smalltalk;on-the-shelf
+Library3;Rivest;Introduction to Algorithms;on-the-shelf
+Library2;Knuth;The Art of Computer Programming;1
+Library3;Budd;C++ for Java Programmers;100
+Library3;Budd;Data Structures in C++;4
+Library1;Wirth;Digital Circuit Design;5
+Library1;Wirth;Programming in Modula-2;3
+Library2;Rivest;Introduction to Algorithms;3
+Library1;Korpela;C-ohjelmointikieli;on-the-shelf
+Library3;Korpela;C-ohjelmointikieli;3
+Library3;Wirth;Compiler Construction;7
+Library3;Sebesta;Programming Languages;3
